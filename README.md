@@ -15,6 +15,6 @@ Collaborative filtering models which are based on assumption that people like th
 
 The method identifies users that are similar to the queried user and estimate the desired rating to be the weighted average of the ratings of these similar users.
 
-4) Hybrid recommender :
+4) Hybrid recommender : ( Not Completed )
 
 Hybrid recommender systems combine two or more recommendation strategies in different ways to benefit from their complementary advantages.
